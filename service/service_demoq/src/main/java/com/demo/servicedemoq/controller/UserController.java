@@ -57,6 +57,7 @@ public class UserController {
             sb.append(String.valueOf(ran1));
         }
 //        System.out.println(sb);
+
         return sb.toString();
     }
 }
